@@ -4,13 +4,13 @@ A web-based password strength analyzer that simulates real attack techniques to 
 
 ## Features
 
-- Real-time strength scoring as you type (0–100 scale)
-- Estimated crack times across 4 attack scenarios (online, offline slow/fast hash, GPU cluster)
-- Pattern detection: common passwords, dictionary words, l33t speak, keyboard walks, sequences, dates, repeated characters
-- Entropy calculation based on actual character pool size
-- Visual breakdown: length, charset diversity, entropy bits, pattern count
-- Actionable vulnerability feedback with severity ratings
-- Dark themed, responsive UI — works on mobile
+- Real-time strength scoring as you type (0–100 scale).
+- Estimated crack times across 4 attack scenarios (online, offline slow/fast hash, GPU cluster).
+- Pattern detection: common passwords, dictionary words, l33t speak, keyboard walks, sequences, dates, repeated characters.
+- Entropy calculation based on actual character pool size.
+- Visual breakdown: length, charset diversity, entropy bits, pattern count.
+- Actionable vulnerability feedback with severity ratings.
+- Dark themed, responsive UI — works on mobile.
 
 ## How It Works
 

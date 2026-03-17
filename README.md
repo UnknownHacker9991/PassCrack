@@ -45,3 +45,5 @@ Zero data leaves your browser. The entire analysis runs in client-side JavaScrip
 ## License
 
 MIT
+
+## Co-Authored-By: Claude <81847+claude@users.noreply.github.com>
